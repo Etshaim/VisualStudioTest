@@ -5,5 +5,6 @@ void main(void)
 	printf("Git Test\n");
 	printf("Branch Test\n");
 	printf("Master Branch\n");
-	printf("·ÎÄÃ ÀúÀå¼Ò master branch ¼öÁ¤");
+	printf("Â·ÃÃ„Ãƒ Ã€ÃºÃ€Ã¥Â¼Ã’ master branch Â¼Ã¶ÃÂ¤");
+	printf("modified on GitHub");
 }
